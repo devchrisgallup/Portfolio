@@ -1,0 +1,46 @@
+/* TAGs */
+body, html {
+    background-color: #42B4E6; 
+    color: #FFF;
+}
+
+footer {
+    background-color: #FFF;
+    color: #555555;
+    height: 50px; 
+}
+
+/* GENERAL */
+
+.centerDiv {
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.marginTopTwenty {
+    margin-top: 20%; 
+}
+
+.marginTopTen {
+    margin-top: 10%; 
+}
+
+.marginBottomTwo {
+    margin-bottom: 2%;
+}
+
+/* CLIENTS */
+
+#clientWork {
+    height: 300px; 
+    background-color: #FFF;
+    color: #555555;
+}
+
+.clientImages {
+    background-color: #FFF;
+    padding: 1%; 
+    margin: 3%; 
+    width: 30%; 
+}
