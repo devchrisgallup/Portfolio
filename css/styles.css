@@ -30,6 +30,10 @@ footer {
     margin-bottom: 2%;
 }
 
+.marginBottomTen {
+    margin-bottom: 10%; 
+}
+
 /* CLIENTS */
 
 #clientWork {
@@ -43,4 +47,10 @@ footer {
     padding: 1%; 
     margin: 3%; 
     width: 30%; 
+}
+
+.clientImages:hover {
+    -moz-box-shadow: 0 0 150px #FFF; 
+    -webkit-box-shadow: 0 0 150px #FFF; 
+    box-shadow: 0 0 150px #FFF;   
 }
