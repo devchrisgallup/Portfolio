@@ -7,3 +7,7 @@ document.getElementById('tutor').onclick = function () {
 document.getElementById('joyful').onclick = function () {
     location.href = "http://www.joyfulanswers.com/";
 }
+
+document.getElementById('grocery').onclick = function () {
+    location.href = "http://chrisgalluptest.info/angular/index.html";
+}
