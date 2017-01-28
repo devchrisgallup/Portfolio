@@ -79,3 +79,7 @@ a:active {
     -webkit-box-shadow: 0 0 150px #FFF; 
     box-shadow: 0 0 150px #FFF;   
 }
+
+.texthide {
+    padding: 10%; 
+}
